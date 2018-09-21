@@ -1048,4 +1048,4 @@ public class GraphicalPhysics
 	c.getChar ();
 	c.close ();
     }
-} // GrahicalTitlePage class
+} 
